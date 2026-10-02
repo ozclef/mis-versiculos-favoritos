@@ -24,7 +24,7 @@
 
   
 <pre>
-<iframe width="1115" height="480" src="https://www.youtube.com/embed/EplNEHQUOUc" title="Los 7 Textos Más Perturbadores De La Biblia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/EplNEHQUOUc" title="Los 7 Textos Más Perturbadores De La Biblia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </pre>
 
 <img width="831" height="1206" alt="image" src="https://github.com/user-attachments/assets/5c2f6f3d-9b78-4c64-b199-bbe13449c21e" />
