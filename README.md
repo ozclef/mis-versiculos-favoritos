@@ -1,4 +1,4 @@
-# con-proposito
+# Lectura y aprendizaje personal  con  proposito
 
 -------
 
