@@ -124,18 +124,13 @@ Si quieres una redacción corta para poner en la web (por ejemplo, sección FAQ 
 
 ---
 
-# 5) ¿Quieres que lo ponga ya en `/principios/` con versículos enlazados?
+# 5) auténtica —my convicción, sin justificativos,  con verdad y calma.
 
-Puedo:
 
-* pegar los 3–4 bloques de texto con los versículos seleccionados (con su cita y enlace) listos para tu HTML, o
-* dejar una versión muy breve para el menú + una versión extendida donde pongas comentarios personales tuyos junto a cada versículo.
 
-Dime si prefieres la versión **corta** (1 párrafo + 3 versículos con enlaces) o la **extendida** (texto breve por cada tema + 1–2 versículos enlazados). No te pregunto de más: elige una de las dos opciones y ya lo genero y te lo doy listo para pegar.
+----
 
----
 
-Oscarito: todo esto lo diseñé para que tu web no solo sea técnica sino también auténtica —tu convicción, sin justificativos, con verdad y calma. Dime “corta” o “extendida” y te lo dejo listo ya mismo (con el HTML final para `/principios/`).
 
 [1]: https://www.biblegateway.com/passage/?search=Colosenses+3%3A23&version=RVR1960&utm_source=chatgpt.com "Colosenses 3:23 - Reina-Valera 1960"
 [2]: https://www.biblegateway.com/passage/?search=Filipenses+4%3A8&version=RVR1960&utm_source=chatgpt.com "Filipenses 4:8 - Reina-Valera 1960"
